@@ -1,2 +1,2 @@
 # Mobile-Store-E-commerce--PHP
-Mobile shoping website using php and mySQL. 
+Mobile shoping website using php and mySQL. minor project
